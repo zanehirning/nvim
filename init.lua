@@ -1,1 +1,1 @@
-require("zanehirning.remap")
+require("zanehirning")
