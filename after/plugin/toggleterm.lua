@@ -2,7 +2,8 @@ require('toggleterm').setup{
 	open_mapping = [[<c-\>]],
 	direction = 'float',
 	shell = vim.o.shell,
-	auto_scroll = true, 
+	auto_scroll = true,
+    start_in_insert = true,
 	float_opts = {
 		border = 'curved',
 		winblend = 0,
