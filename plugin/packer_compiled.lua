@@ -156,6 +156,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\Zane\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
+  moonfly = {
+    loaded = true,
+    path = "C:\\Users\\Zane\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\moonfly",
+    url = "https://github.com/bluz71/vim-moonfly-colors"
+  },
   neovim = {
     loaded = true,
     path = "C:\\Users\\Zane\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\neovim",
