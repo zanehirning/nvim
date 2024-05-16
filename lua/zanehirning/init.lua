@@ -34,8 +34,6 @@ autocmd({"BufWritePre"}, {
     command = [[%s/\s\+$//e]],
 })
 
-
-
 autocmd('LspAttach', {
     group = group,
     callback = function(e)
