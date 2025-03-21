@@ -1,5 +1,6 @@
 return {
     { 'rebelot/kanagawa.nvim' },
+    { 'wilmanbarrios/palenight.nvim' },
     { 'sainnhe/everforest' },
     { 'sainnhe/gruvbox-material' },
     { 'projekt0n/github-nvim-theme' },
